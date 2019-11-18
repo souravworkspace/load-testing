@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "dotenv": "^8.2.0",
+    "got": "^9.6.0",
+    "lodash": "^4.17.14",
+    "nanoid": "^2.1.6",
+    "pg": "^7.11.0"
+  },
+  "scripts": {
+    "dev": "nodemon",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.27",
+    "@types/dotenv": "^8.2.0",
+    "@types/got": "^9.6.9",
+    "@types/lodash": "^4.14.136",
+    "@types/nanoid": "^2.1.0",
+    "@types/pg": "^7.4.14",
+    "typescript": "^3.5.3"
+  }
+}

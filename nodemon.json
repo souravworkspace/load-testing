@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "exec": "ts-node --files ./src/test.ts",
+  "env": { "NODE_ENV": "development" }
+}
